@@ -1,7 +1,7 @@
 """
 Netflix Dataset Analysis - Interactive Streamlit Dashboard
 ==========================================================
-Author: Your Name
+Author: M Bharghav Kumar
 Date: 2025
 Description: Interactive dashboard for Netflix content trends analysis
 """
@@ -1037,4 +1037,5 @@ def main():
         """, unsafe_allow_html=True)
 
 if __name__ == "__main__":
+
     main()
